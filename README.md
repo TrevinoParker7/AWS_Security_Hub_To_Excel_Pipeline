@@ -1,4 +1,4 @@
-# AWS_Security_Hub_To_Excel_Pipeline_Project
+# Lab AWS_Security_Hub_To_Excel_Pipeline_Project
 
 # 🕶️ The Compliance Matrix  
 *A Ridiculously Funny GRC Parody*
