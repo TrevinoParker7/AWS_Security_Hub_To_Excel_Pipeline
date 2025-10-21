@@ -12,8 +12,6 @@
 
 <img width="2150" height="865" alt="image" src="https://github.com/user-attachments/assets/7e2ac8cb-b0f6-4b04-bc7d-c4585f71ac03" />
 
-<img width="1027" height="1622" alt="image" src="https://github.com/user-attachments/assets/5779c746-61c0-4955-903f-841da69db586" />
-
 # 🕶️ The Compliance Matrix  
 *A Ridiculously Funny GRC Parody*
 
